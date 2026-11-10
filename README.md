@@ -6,6 +6,8 @@ A responsive, accessible, zero-build public portfolio presenting research in app
 
 - `index.html`: biography, research directions, open projects, documented scholarship, CV-based background, contact.
 - `favicon.svg`: monogram favicon.
+- `bio.html`: polished short and expanded public biography.
+- `PUBLIC_BIO.md`: reusable professional biography and primary sources.
 
 ## Publishing on GitHub Pages
 
